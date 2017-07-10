@@ -1,0 +1,2 @@
+# gologic
+Go game logic
