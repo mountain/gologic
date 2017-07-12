@@ -8,15 +8,8 @@ fun in the process.
 
 0. if you just find a **bug** or even a typo, please help us correct it
 1. if you have a good **question**, please submit it to the issues
-2. if you have a good **idea**, please submit it to the [issues]
+2. if you have a good **idea**, please submit it to the [[issues]]
 3. if you have studied your idea or question further, please submit a **note** in the notes folder, notes are articles in
 Tex format
 4. as a research group, we may release some technical reports periodically in the reports folder
-
-
-
-
-
-
-
 
