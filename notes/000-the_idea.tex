@@ -1,3 +1,24 @@
+\documentclass[a4paper,10.5pt]{article}
+
+\input{data/style}
+
+\newcommand{\specialcell}[2][c]{%
+  \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+
+
+\title{通过Hoare逻辑来探索围棋的想法}
+\author{苑明理}
+\date{2017年7月}
+
+\begin{document}
+
+\maketitle{}
+\renewcommand\contentsname{目录}
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\newpage
+
 \section{想法的产生}
 
 围棋是一种复杂的棋类游戏，为了攻克它，人类把所有的认知工具都搬了过来，比如，棋感是一种直觉，棋招的计算是决策过程中对解空间的搜索。
@@ -57,6 +78,8 @@
 
 \subsection{Hoare逻辑和程序规范}
 
+
+\end{document}
 
 
 
